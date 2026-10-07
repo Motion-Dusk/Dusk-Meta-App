@@ -1,6 +1,6 @@
 {
-  "version": "1.0.1",
-  "download_url": "https://github.com/Motion-Dusk/Dusk-Meta-App/releases/download/v1.0.1/DuskMeta-Setup-1.0.1.exe",
-  "notes": ["First release"],
-  "sha256": "B1F88FBE34C22CEA3B2D755FAA7DB5FE58F467222C5266A20DAE6C7BEFE86CD4"
+  "version": "1.0.2",
+  "download_url": "https://github.com/Motion-Dusk/Dusk-Meta-App/releases/download/v1.0.2/DuskMeta-Setup-1.0.2.exe",
+  "notes": ["Added export all button"],
+  "sha256": "E59E19DCCAB03ED0DB9C8B074B22D52E23BECB9D00236D2504AD0E0A79A7D95B"
 }

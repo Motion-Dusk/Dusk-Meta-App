@@ -1,1 +1,1 @@
-Get-FileHash -Path "[path]" -Algorithm SHA256
+Get-FileHash -Path "G:\Pra\Motion-Dusk\dusk_meta_app\installer_output\DuskMeta-Setup-1.0.2.exe" -Algorithm SHA256
