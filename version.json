@@ -1,6 +1,10 @@
 {
-  "version": "1.0.2",
-  "download_url": "https://github.com/Motion-Dusk/Dusk-Meta-App/releases/download/v1.0.2/DuskMeta-Setup-1.0.2.exe",
-  "notes": ["Added export all button"],
-  "sha256": "E59E19DCCAB03ED0DB9C8B074B22D52E23BECB9D00236D2504AD0E0A79A7D95B"
+  "version": "1.0.3",
+  "download_url": "https://github.com/Motion-Dusk/Dusk-Meta-App/releases/download/v1.0.3/DuskMeta-Setup-1.0.3.exe",
+  "notes": [
+    "Export options,",
+    "Added AI generated category into UI from list.",
+    "Update full app UI to premium UI."
+  ],
+  "sha256": "24920C4D5972C0ED4BE40B4F9BCF16624D92AB826F49650E3B7D7244ABCF7C0C"
 }
