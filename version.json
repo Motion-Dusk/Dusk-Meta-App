@@ -1,14 +1,10 @@
 {
-  "version": "1.1.0",
-  "download_url": "https://github.com/Motion-Dusk/Dusk-Meta-App/releases/download/v1.1.0/DuskMeta-Setup-1.1.0.exe",
+  "version": "1.1.1",
+  "download_url": "https://github.com/Motion-Dusk/Dusk-Meta-App/releases/download/v1.1.1/DuskMeta-Setup-1.1.1.exe",
   "notes": [
-    "High-performance custom Rust engine for native EPS embedding.",
-    "Targeted 'Embed as' and 'Export CSV as' submenus (Adobe, Shutterstock, Freepik).",
-    "Open all selected vector files in Adobe Illustrator with 1 click.",
-    "Automatic high-resolution companion JPEG generation for EPS vectors.",
-    "1-click keyword, title, and full metadata copying across all views.",
-    "Desktop native completion notifications.",
-    "Right-click context menu and single item deletion in Generation History."
+    "Optimized Freepik Companion JPEG Generation: Companion preview JPEGs are now generated exclusively for the Freepik export workflow, eliminating unnecessary file creation for other platforms.",
+    "Custom Companion Image Size Control: Added a dedicated setting in Preferences allowing users to configure target dimensions and DPI requirements for companion JPEGs.",
+    "Improved 'Embed As' Flow: Enhanced directory handling and path resolution when exporting assets for specific individual marketplaces."
   ],
-  "sha256": "B8BF54EA4B33A4251CC51AF96E18F9B5DE5B1E56901435EDA0F92C93159C6132"
+  "sha256": "7F3E1F88F8DEFBC1FD60AD4D8658F91FA932A2DB9E41D24FD51F1D6A1D7D28D0"
 }
